@@ -28,16 +28,14 @@
 
 ### 🔥 Featured Projects
 
-| Project | Description | Tech |
+| Project | Description | Link |
 |---------|-------------|------|
-| [🛒 ShopEase](https://e-commerce-website-1-51gk.onrender.com/) | E-commerce store with cart, checkout & auth — [repo](https://github.com/pr5064/E-commerce-website) | Django, Python, SQLite |
-| [📄 ResumeForge](https://github.com/pr5064/ResumeForge) | AI-powered resume builder | JavaScript, HTML, CSS |
-| [🎨 AirDrawer](https://github.com/pr5064/Airdrawer-) | An AI-powered web app to draw in the air using hand gestures | JavaScript, HTML, CSS |
-| [🍿 Netflix Clone](https://github.com/pr5064/NETFLIX-CLONE) | A pixel-perfect Netflix Clone featuring a modern UI and dynamic layouts | JavaScript, HTML, CSS |
-| [🛹 Skateboard Sequence](https://github.com/pr5064/skateboard.sequence) | An interactive project showcasing scroll sequences and animations | JavaScript |
-| [🐆 Cheethaaa](https://github.com/pr5064/Cheethaaa) | Interactive web project | HTML |
-| [⚔️ Katana](https://github.com/pr5064/katana) | Themed web project | HTML |
-| [🏎️ Lamborghini](https://github.com/pr5064/Lamborghini) | Automotive themed web project | HTML |
+| [booking](https://github.com/pr5064/booking) | Public repository | GitHub |
+| [landsurvey](https://github.com/pr5064/landsurvey) | Public repository | GitHub |
+| [skilllink](https://github.com/pr5064/skilllink) | Public repository | GitHub |
+| [PROTFOLIO](https://github.com/pr5064/PROTFOLIO) | Public repository | GitHub |
+| [protfoli](https://github.com/pr5064/protfoli) | Public repository | GitHub |
+| [Fundsy](https://github.com/pr5064/Fundsy) | Public repository | GitHub |
 
 ---
 
