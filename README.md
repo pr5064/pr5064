@@ -3,8 +3,8 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/maddurvignesh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <img src="https://komarev.com/ghpvc/?username=maddurvignesh&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
+  <a href="https://github.com/pr5064"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <img src="https://komarev.com/ghpvc/?username=pr5064&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
 </p>
 
 ---
@@ -30,33 +30,33 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [🛒 ShopEase](https://e-commerce-website-1-51gk.onrender.com/) | E-commerce store with cart, checkout & auth — [repo](https://github.com/maddurvignesh/E-commerce-website) | Django, Python, SQLite |
-| [📄 ResumeForge](https://github.com/maddurvignesh/ResumeForge) | AI-powered resume builder | JavaScript, HTML, CSS |
-| [🎨 AirDrawer](https://github.com/maddurvignesh/Airdrawer-) | An AI-powered web app to draw in the air using hand gestures | JavaScript, HTML, CSS |
-| [🍿 Netflix Clone](https://github.com/maddurvignesh/NETFLIX-CLONE) | A pixel-perfect Netflix Clone featuring a modern UI and dynamic layouts | JavaScript, HTML, CSS |
-| [🛹 Skateboard Sequence](https://github.com/maddurvignesh/skateboard.sequence) | An interactive project showcasing scroll sequences and animations | JavaScript |
-| [🐆 Cheethaaa](https://github.com/maddurvignesh/Cheethaaa) | Interactive web project | HTML |
-| [⚔️ Katana](https://github.com/maddurvignesh/katana) | Themed web project | HTML |
-| [🏎️ Lamborghini](https://github.com/maddurvignesh/Lamborghini) | Automotive themed web project | HTML |
+| [🛒 ShopEase](https://e-commerce-website-1-51gk.onrender.com/) | E-commerce store with cart, checkout & auth — [repo](https://github.com/pr5064/E-commerce-website) | Django, Python, SQLite |
+| [📄 ResumeForge](https://github.com/pr5064/ResumeForge) | AI-powered resume builder | JavaScript, HTML, CSS |
+| [🎨 AirDrawer](https://github.com/pr5064/Airdrawer-) | An AI-powered web app to draw in the air using hand gestures | JavaScript, HTML, CSS |
+| [🍿 Netflix Clone](https://github.com/pr5064/NETFLIX-CLONE) | A pixel-perfect Netflix Clone featuring a modern UI and dynamic layouts | JavaScript, HTML, CSS |
+| [🛹 Skateboard Sequence](https://github.com/pr5064/skateboard.sequence) | An interactive project showcasing scroll sequences and animations | JavaScript |
+| [🐆 Cheethaaa](https://github.com/pr5064/Cheethaaa) | Interactive web project | HTML |
+| [⚔️ Katana](https://github.com/pr5064/katana) | Themed web project | HTML |
+| [🏎️ Lamborghini](https://github.com/pr5064/Lamborghini) | Automotive themed web project | HTML |
 
 ---
 
 ### 📈 GitHub Stats & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maddurvignesh&show_icons=true&theme=tokyonight" alt="Vignesh's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maddurvignesh&theme=tokyonight" alt="Vignesh's GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pr5064&show_icons=true&theme=tokyonight" alt="Sreeshanth Reddy's GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pr5064&theme=tokyonight" alt="Sreeshanth Reddy's GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maddurvignesh&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pr5064&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maddurvignesh/maddurvignesh/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maddurvignesh/maddurvignesh/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/maddurvignesh/maddurvignesh/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pr5064/pr5064/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pr5064/pr5064/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pr5064/pr5064/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
